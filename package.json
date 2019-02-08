@@ -1,0 +1,23 @@
+{
+  "name": "longest_increasing_subsequence",
+  "version": "1.0.0",
+  "description": "JS solve for the longest increasing subsequence problem",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwklausing/longest-increasing-subsequence.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwklausing/longest-increasing-subsequence/issues"
+  },
+  "homepage": "https://github.com/cwklausing/longest-increasing-subsequence#readme",
+  "dependencies": {
+    "@babel/preset-env": "^7.3.1",
+    "jest": "^24.1.0"
+  }
+}
